@@ -1,2 +1,2 @@
-# h-pverkefni
+# hópverkefni
 vsh1
